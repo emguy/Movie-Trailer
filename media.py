@@ -21,7 +21,7 @@ import urllib
 class Movie():
   """
   A Movie object which stores the meta-information about a movie.
-  All movie data is retrived from the Open Movie Database (OMDB).
+  All movie data is retrieved from the Open Movie Database (OMDB).
   
   Attributes:
     title (str):                title of the movie
