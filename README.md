@@ -10,10 +10,10 @@ All movie data is retrieved from the Open Move Database (OMDB).
 
 Excute either of the following two commands to create the movie webpage.
 
-   python generate_html.py
+      python generate_html.py
 
-   or
+       or
 
-   ./generate_html.py (on a linux shell)
+     ./generate_html.py (on a linux shell)
 
-Report bugs to Yu Zhang (emguy2000@gmail.com).
+Report bugs to emguy2000@gmail.com.
