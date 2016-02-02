@@ -2,6 +2,8 @@ import webbrowser
 import os
 import re
 
+# NOTE: This file is modified from the original one --- fresh_tomatoes.py.
+
 # Styles and scripting for the page
 main_page_head = '''
 <head>
