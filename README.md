@@ -18,4 +18,4 @@ Excute either of the following two commands to create the movie webpage.
 
 Report bugs to emguy2000@gmail.com.
 
-[1]:https://emguy.github.io/freshtomatoes.html
+[1]:https://emguy.github.io/fresh_tomatoes.html
